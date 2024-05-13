@@ -1,2 +1,3 @@
 # azkar
-azkar 
+- add the rest of azkar
+
